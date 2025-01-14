@@ -22,3 +22,9 @@ The following requirements must be met to receive full credit on this assignment
 Your solution will be tested against various test cases including edge cases, invalid inputs, and all four arithmetic operations.
 
  -->
+
+ This is a binary calculator and is coded to do addition, subtraction, multiplacation and division. 
+ 
+ The calculator when dividing with zero will indeed print Nan (Non active number)
+ Also if there is an overflow of numbers it will print Overflow
+ Also with random characters like "w" it will print error as it is only meant to work with 8 digits of 0 and 1s
